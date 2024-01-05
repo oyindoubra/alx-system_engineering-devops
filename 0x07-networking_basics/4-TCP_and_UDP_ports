@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# scrip showing listening socket,PID, name of program socket belongs to
+
+netstat -lp
+
